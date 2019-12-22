@@ -18,6 +18,6 @@ print("Current Time: ", current_time)
 # git commit -m "Your Message"
 # git push
 # --------------------------------------------------------------------------------
-quote = "An optimistic man is the one who thinks even bullshit is a fertilizer!"
+quote = "Good Morning!!!!!!!!!!!!!!!!!!"
 print(quote)
 # --------------------------------------------------------------------------------
